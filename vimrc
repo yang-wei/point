@@ -3,7 +3,7 @@ set nocompatible              " latest vim configuratoin
 source ~/.vim/plugins.vim
 
 syntax on
-
+filetype plugin indent on
 
 "--------------- Indentation ---------------"
 set tabstop=2   
