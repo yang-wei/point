@@ -1,8 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/Users/yangwei/code/clojure/picture-gallery/src/clj'
-let g:netrw_dirhist_2='/Users/yangwei/code/clojure/picture-gallery/src/clj/picture_gallery'
-let g:netrw_dirhist_3='/Users/yangwei/code/clojure/picture-gallery/src/clj/picture_gallery/routes'
-let g:netrw_dirhist_4='/Users/yangwei/code/clojure/picture-gallery/src/clj/picture_gallery'
-let g:netrw_dirhist_5='/Users/yangwei/code/clojure/picture-gallery/src/clj/picture_gallery/routes'
-let g:netrw_dirhist_6='/Users/yangwei/code/clojure/picture-gallery/src/clj/picture_gallery/routes/services'
