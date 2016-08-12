@@ -1,6 +1,7 @@
 set nocompatible              " latest vim configuratoin 
 
 source ~/.vim/plugins.vim
+source ~/.vim/indent/*.vim
 
 syntax on
 filetype plugin indent on
@@ -12,6 +13,7 @@ set softtabstop=2
 set shiftwidth=2
 set smarttab
 set encoding=utf-8
+set fileencodings=iso-2022-jp,euc-jp,sjis,utf-8
 set autoindent
 
 
